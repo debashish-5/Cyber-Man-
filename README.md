@@ -129,7 +129,7 @@ Enhance UI and user interaction
 
 ## Author
 
-Debashish Parida  
+Debashish Parida  (All-Rounder) 
 B.Tech Computer Science Engineering  
 
 Skills  
